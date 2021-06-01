@@ -1,6 +1,6 @@
 // React doc: prefered way?
 export function Hello1() {
-	return <h1>Hello 1</h1>;
+  return <h1>Hello CodeSandox!</h1>;
 }
 
 // this also works fine
