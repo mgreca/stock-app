@@ -1,0 +1,9 @@
+.text-field__input {
+  padding: 4px;
+}
+
+.text-field__label {
+  font-size: 14px;
+  line-height: 20px;
+  margin-right: 4px;
+}
