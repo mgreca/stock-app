@@ -1,9 +1,10 @@
-import './TextField.css'; 
+import "./TextField.css";
 
 const TextField = ({
   label,
   maxLength,
   name,
+  onChange,
   placeholderText,
   type = "text",
   value = "",
@@ -20,6 +21,7 @@ const TextField = ({
         id={name}
         maxLength={maxLength}
         name={name}
+        onChange={onChange}
         placeholder={placeholderText}
         type={type}
         value={value}

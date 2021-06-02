@@ -1,0 +1,9 @@
+.empty {
+  height: 20px;
+  font-size: 12px;
+  padding: 20px;
+}
+
+.stock-list th {
+  min-width: 120px;
+}
