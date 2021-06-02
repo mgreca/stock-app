@@ -2,7 +2,6 @@
 
 Playing with CodeSandbox and GitHub.
 
-The sandbox template is https://codesandbox.io/s/xorcx
+The app is in https://iyju0.csb.app/ -> temporal link
 
-If you want to see the app working you can see it in https://codesandbox.io/s/github/mgreca/stock-app/tree/main/
-
+The sandbox template I used for React 17 is https://codesandbox.io/s/xorcx
